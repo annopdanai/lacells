@@ -1,0 +1,3394 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Abkhazia",
+				"MCC": "289",
+				"Cells": "2305",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [40.8884889670004, 43.0387870014798]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Afghanistan",
+				"MCC": "412",
+				"Cells": "9983",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [68.9056842691217, 34.7931178435246]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Albania",
+				"MCC": "276",
+				"Cells": "16764",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [19.7797950203552, 40.8701276427215]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Algeria",
+				"MCC": "603",
+				"Cells": "113579",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [3.96120204321908, 35.858107471043]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "American Samoa",
+				"MCC": "544",
+				"Cells": "67",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-170.647265744482, -14.3078418872539]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Andorra",
+				"MCC": "213",
+				"Cells": "800",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [1.6032751098844, 42.5347972701831]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Angola",
+				"MCC": "631",
+				"Cells": "26730",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [13.6718065306442, -9.38739207454012]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Anguilla",
+				"MCC": "365",
+				"Cells": "193",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-58.3439032781771, 19.1777114854283]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Antigua and Barbuda",
+				"MCC": "344",
+				"Cells": "522",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.770859780356, 17.125687609951]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Argentina",
+				"MCC": "722",
+				"Cells": "421689",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.874837418963, -31.4347481463509]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Armenia",
+				"MCC": "283",
+				"Cells": "23759",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [44.5523399203685, 40.2042519863919]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Aruba",
+				"MCC": "363",
+				"Cells": "1819",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-69.8875246603127, 12.5074136049818]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Australia",
+				"MCC": "505",
+				"Cells": "703714",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [145.645572507882, -29.8009773411854]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Austria",
+				"MCC": "232",
+				"Cells": "511290",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [14.6117737316248, 47.8087018797307]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Azerbaijan",
+				"MCC": "400",
+				"Cells": "40321",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [49.6267685257824, 40.4110898906436]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bahamas",
+				"MCC": "364",
+				"Cells": "3579",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.8959241436643, 25.2819788904291]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bahrain",
+				"MCC": "426",
+				"Cells": "20123",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [50.5731366316025, 26.1975382051053]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bangladesh",
+				"MCC": "470",
+				"Cells": "152701",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [91.5228703810521, 22.1726998443527]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Barbados",
+				"MCC": "342",
+				"Cells": "2568",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-59.5443929840045, 13.1273454918619]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Belarus",
+				"MCC": "257",
+				"Cells": "135313",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [27.5484617991885, 53.7854824239811]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Belgium",
+				"MCC": "206",
+				"Cells": "289054",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [4.50379704103565, 50.8538120196272]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Belize",
+				"MCC": "702",
+				"Cells": "2237",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.6287052407872, 17.4250303471857]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Benin",
+				"MCC": "616",
+				"Cells": "23699",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [2.42260636217809, 6.67980608948493]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bermuda",
+				"MCC": "350",
+				"Cells": "143",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [1.03767868708943, 44.4745896864797]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bhutan",
+				"MCC": "402",
+				"Cells": "1112",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [89.7085615124145, 27.42813340533]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bolivia",
+				"MCC": "736",
+				"Cells": "76549",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-64.1598505218537, -17.9177975249485]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bosnia and Herzegovina",
+				"MCC": "218",
+				"Cells": "19240",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [17.818797193084, 44.1809835760429]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Botswana",
+				"MCC": "652",
+				"Cells": "14302",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [26.1329552215251, -23.0006950618649]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Brazil",
+				"MCC": "724",
+				"Cells": "2102335",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-47.3148903618846, -18.3974561180924]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "British Virgin Islands",
+				"MCC": "348",
+				"Cells": "857",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-64.5124065869509, 18.4382911413639]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Brunei",
+				"MCC": "528",
+				"Cells": "5597",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [114.922363397409, 4.91063595452165]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Bulgaria",
+				"MCC": "284",
+				"Cells": "119325",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.0403124616779, 42.8626148751651]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Burkina Faso",
+				"MCC": "613",
+				"Cells": "12304",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-3.53998588324598, 11.449812371257]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Burundi",
+				"MCC": "642",
+				"Cells": "4246",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [29.6444338965972, -3.31453615065899]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cambodia",
+				"MCC": "456",
+				"Cells": "65752",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [103.998954894644, 12.3771248132933]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cameroon",
+				"MCC": "624",
+				"Cells": "70608",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [10.8794550777541, 4.45576308531232]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Canada",
+				"MCC": "302",
+				"Cells": "1146034",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.9484305112475, 45.4535207832694]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cape Verde",
+				"MCC": "625",
+				"Cells": "2096",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-23.596723162521, 15.2556489834824]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cayman Islands",
+				"MCC": "346",
+				"Cells": "605",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.7970588633807, 19.6158876995347]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Central African Republic",
+				"MCC": "623",
+				"Cells": "1115",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [18.5891711612994, 4.56903957988619]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Chad",
+				"MCC": "622",
+				"Cells": "2250",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [15.1005522058341, 12.1081215196001]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Chile",
+				"MCC": "730",
+				"Cells": "364735",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.2210988593586, -32.9590898370085]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "China",
+				"MCC": "460",
+				"Cells": "1048993",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [114.480378483895, 29.3695932664434]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Colombia",
+				"MCC": "732",
+				"Cells": "444787",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.5186780139266, 5.29183251383918]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Comoros",
+				"MCC": "654",
+				"Cells": "363",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [43.4320419647684, -11.8595926089031]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Congo",
+				"MCC": "629",
+				"Cells": "7642",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [15.2158347372535, -4.11734977146432]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cook Islands",
+				"MCC": "548",
+				"Cells": "42",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-158.816227950302, -20.9435961176248]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Costa Rica",
+				"MCC": "712",
+				"Cells": "141420",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.0054426441705, 9.94842168111837]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Croatia",
+				"MCC": "219",
+				"Cells": "120836",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [15.8380778947994, 45.2750590845121]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cuba",
+				"MCC": "368",
+				"Cells": "4243",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.8964676562434, 22.5081853961688]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Cyprus",
+				"MCC": "280",
+				"Cells": "25045",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [33.0743040449072, 34.9209981356493]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Czech Republic",
+				"MCC": "230",
+				"Cells": "277193",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [15.3677203257116, 49.7448115603512]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Democratic Republic of Congo",
+				"MCC": "630",
+				"Cells": "55420",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [21.0427388600073, -5.01719445323976]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Denmark",
+				"MCC": "238",
+				"Cells": "300131",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [10.9563303998388, 55.7516452017237]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Djibouti",
+				"MCC": "638",
+				"Cells": "840",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [43.1628165512956, 11.6056751076855]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Dominica",
+				"MCC": "366",
+				"Cells": "284",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.2112567526163, 15.7200863894145]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Dominican Republic",
+				"MCC": "370",
+				"Cells": "73996",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-69.9397753303291, 18.67516754293]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "East Timor",
+				"MCC": "514",
+				"Cells": "1690",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [125.598021997267, -8.61074992608336]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Ecuador",
+				"MCC": "740",
+				"Cells": "100767",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.5891860387905, -0.310614687379915]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Egypt",
+				"MCC": "602",
+				"Cells": "245895",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [30.7572935883548, 30.3089329696707]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "El Salvador",
+				"MCC": "706",
+				"Cells": "96331",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.090752879015, 13.7136979343798]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Equatorial Guinea",
+				"MCC": "627",
+				"Cells": "940",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.19882376324396, 3.10235361381484]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Eritrea",
+				"MCC": "657",
+				"Cells": "125",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [39.4078390590171, 15.6205891729038]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Estonia",
+				"MCC": "248",
+				"Cells": "43019",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [24.9812242627852, 59.0958341704384]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Ethiopia",
+				"MCC": "636",
+				"Cells": "21423",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [38.4275067393642, 9.1861665229393]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Falkland Islands",
+				"MCC": "750",
+				"Cells": "23",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-55.3903303136918, -49.9578844100688]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Faroe Islands",
+				"MCC": "288",
+				"Cells": "859",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-6.58035493729658, 62.020557081023]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Fiji",
+				"MCC": "542",
+				"Cells": "4037",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [177.783085247887, -17.8562322193475]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Finland",
+				"MCC": "244",
+				"Cells": "272970",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.5398348458881, 61.1835893847905]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "France",
+				"MCC": "208",
+				"Cells": "2254078",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [2.85281662896887, 46.9025849287294]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "French Guiana",
+				"MCC": "340",
+				"Cells": "19398",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.5503410539485, 14.38272668159]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "French Polynesia",
+				"MCC": "547",
+				"Cells": "4393",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-149.575243900795, -17.5658305042766]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Gabon",
+				"MCC": "628",
+				"Cells": "9775",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.46067846361647, -0.054706951141845]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Gambia",
+				"MCC": "607",
+				"Cells": "2791",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-16.1560258356703, 13.4190830343332]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Georgia",
+				"MCC": "282",
+				"Cells": "32812",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [44.181463693185, 41.8157998687258]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Germany",
+				"MCC": "262",
+				"Cells": "2838173",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [9.81325011971318, 50.841007217514]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Ghana",
+				"MCC": "620",
+				"Cells": "100143",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.688232153577146, 6.18098405907331]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Gibraltar",
+				"MCC": "266",
+				"Cells": "720",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [1.95341798087366, 37.4369246322162]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Greece",
+				"MCC": "202",
+				"Cells": "227092",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [23.3250716065456, 38.4728276393939]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Greenland",
+				"MCC": "290",
+				"Cells": "213",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-50.7697039119189, 64.1832798673192]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Grenada",
+				"MCC": "352",
+				"Cells": "431",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.7671113454846, 12.0074935112523]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Guatemala",
+				"MCC": "704",
+				"Cells": "127933",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.5133270533414, 14.6644440074722]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Guinea",
+				"MCC": "611",
+				"Cells": "14312",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-10.7182326103919, 9.1726536307462]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Guinea-Bissau",
+				"MCC": "632",
+				"Cells": "1917",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-15.5462956833905, 11.8459492815626]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Guyana",
+				"MCC": "738",
+				"Cells": "2460",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-58.1558884184549, 6.73488230301512]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Haiti",
+				"MCC": "372",
+				"Cells": "4340",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.1703651679384, 18.8070874466508]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Honduras",
+				"MCC": "708",
+				"Cells": "56458",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.2318405829524, 14.4843122732974]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Hongkong",
+				"MCC": "454",
+				"Cells": "191005",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [114.13576492884, 22.3640778838885]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Hungary",
+				"MCC": "216",
+				"Cells": "207594",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [18.9480770258031, 47.1538578293974]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Iceland",
+				"MCC": "274",
+				"Cells": "13024",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-21.1406086228032, 64.3011476676637]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "India",
+				"MCC": "404",
+				"Cells": "1882911",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [78.962528954776, 19.0665360266088]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "India",
+				"MCC": "405",
+				"Cells": "695237",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.485958443264, 21.4573504020872]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Indonesia",
+				"MCC": "510",
+				"Cells": "1435094",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.292290609554, -3.71029631734502]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Iran",
+				"MCC": "432",
+				"Cells": "443334",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [51.9798757230827, 35.0151994014748]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Iraq",
+				"MCC": "418",
+				"Cells": "60924",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [44.8739194410894, 35.4885436407182]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Ireland",
+				"MCC": "272",
+				"Cells": "162981",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-6.83921003141853, 53.0811279054576]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Israel / Palestine",
+				"MCC": "425",
+				"Cells": "207629",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.9229466008437, 32.1075277556719]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Italy",
+				"MCC": "222",
+				"Cells": "1501131",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [11.7566969095545, 42.9700016482192]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Ivory Coast",
+				"MCC": "612",
+				"Cells": "80126",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-4.29789861944192, 5.77666887298635]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Jamaica",
+				"MCC": "338",
+				"Cells": "42321",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.5824040429672, 18.4908665669648]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Japan",
+				"MCC": "440",
+				"Cells": "2112363",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [137.696571790861, 35.7346280179871]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Japan",
+				"MCC": "441",
+				"Cells": "3292",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [136.005158690302, 34.9056719602917]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Jordan",
+				"MCC": "416",
+				"Cells": "81392",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [35.8462797154538, 31.7672414531686]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Kazakhstan",
+				"MCC": "401",
+				"Cells": "178980",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [72.6072145177218, 45.3120680894171]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Kenya",
+				"MCC": "639",
+				"Cells": "177507",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.7935126221221, -1.06087760729809]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Kiribati",
+				"MCC": "545",
+				"Cells": "40",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [171.026324524021, 2.77995279183873]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Kosovo",
+				"MCC": "221",
+				"Cells": "1575",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [21.0339713125564, 42.5338521422683]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Kuwait",
+				"MCC": "419",
+				"Cells": "63486",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [47.9936428655712, 29.2432783027512]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Kyrgyzstan",
+				"MCC": "437",
+				"Cells": "25201",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [74.6608106664016, 42.8188595761385]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Laos",
+				"MCC": "457",
+				"Cells": "31725",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [103.614011192078, 17.7148554874222]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Latvia",
+				"MCC": "247",
+				"Cells": "45642",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.545530627438, 56.7209139688888]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Lebanon",
+				"MCC": "415",
+				"Cells": "36598",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [35.6341542588976, 33.9779669630668]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Lesotho",
+				"MCC": "651",
+				"Cells": "3196",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [27.5158742433457, -29.3122291964157]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Liberia",
+				"MCC": "618",
+				"Cells": "3304",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-10.6712189391247, 6.30003503936716]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Libya",
+				"MCC": "606",
+				"Cells": "12859",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [13.758451072866, 32.4666694119993]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Liechtenstein",
+				"MCC": "295",
+				"Cells": "1680",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [10.1261105583825, 47.2325795011829]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Lithuania",
+				"MCC": "246",
+				"Cells": "50585",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [23.7170261412135, 55.0940674472392]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Luxembourg",
+				"MCC": "270",
+				"Cells": "24820",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [6.11304528678756, 49.6433110790633]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Macao",
+				"MCC": "455",
+				"Cells": "8144",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [113.546917928951, 22.1774998508206]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Macedonia",
+				"MCC": "294",
+				"Cells": "19863",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [21.5263087628314, 41.4816159958508]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Madagascar",
+				"MCC": "646",
+				"Cells": "12785",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [47.6404931970214, -18.4665174566518]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Malawi",
+				"MCC": "650",
+				"Cells": "15056",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [34.3421973611024, -14.088053125338]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Malaysia",
+				"MCC": "502",
+				"Cells": "563027",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [101.608882176044, 4.06922837625597]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Maldives",
+				"MCC": "472",
+				"Cells": "2907",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [58.4903288390241, 14.4511301692749]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Mali",
+				"MCC": "610",
+				"Cells": "30629",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-8.32811289449894, 13.2528511052199]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Malta",
+				"MCC": "278",
+				"Cells": "16785",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [14.4672613110172, 35.9053770341907]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Mauritania",
+				"MCC": "609",
+				"Cells": "5344",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-15.9137377355583, 18.2987244827967]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Mauritius",
+				"MCC": "617",
+				"Cells": "14734",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [57.5622792739895, -20.2808384652981]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Mexico",
+				"MCC": "334",
+				"Cells": "1962087",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-102.95071725835, 23.540312971278]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Micronesia",
+				"MCC": "550",
+				"Cells": "29",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [157.492425470633, 7.03117020988309]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Moldova",
+				"MCC": "259",
+				"Cells": "27818",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [28.3957349659179, 47.3444699419993]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Monaco",
+				"MCC": "212",
+				"Cells": "1257",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [16.739426858216, 42.9138085385971]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Mongolia",
+				"MCC": "428",
+				"Cells": "9654",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.779060979108, 47.7045567039293]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Montenegro",
+				"MCC": "297",
+				"Cells": "10887",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [19.1381474884318, 42.4596630802545]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Montserrat",
+				"MCC": "354",
+				"Cells": "41",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-21.0737729904228, 26.6402353739001]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Morocco",
+				"MCC": "604",
+				"Cells": "212747",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-7.53210799245672, 33.2082888797714]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Mozambique",
+				"MCC": "643",
+				"Cells": "57359",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.4918865364713, -18.4055896832525]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Myanmar",
+				"MCC": "414",
+				"Cells": "53619",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [96.3591444575943, 18.0194184250612]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Namibia",
+				"MCC": "649",
+				"Cells": "8683",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [16.4256038110893, -21.6529789184987]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Nepal",
+				"MCC": "429",
+				"Cells": "22306",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [84.3398527855675, 27.7336006217148]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Netherlands",
+				"MCC": "204",
+				"Cells": "545442",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [5.06270976469333, 52.0169814585937]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Netherlands Antilles",
+				"MCC": "362",
+				"Cells": "3310",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-68.7778162328962, 12.2755392073352]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "New Caledonia",
+				"MCC": "546",
+				"Cells": "2474",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [166.287068322776, -22.0455408353684]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "New Zealand",
+				"MCC": "530",
+				"Cells": "105539",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [174.828088568776, -38.3689808044587]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Nicaragua",
+				"MCC": "710",
+				"Cells": "53699",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.2209997204317, 12.2492345276545]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Niger",
+				"MCC": "614",
+				"Cells": "10044",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [4.31530918858755, 14.1719982484212]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Nigeria",
+				"MCC": "621",
+				"Cells": "278097",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [5.13758527510163, 6.54488224401542]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Niue",
+				"MCC": "555",
+				"Cells": "10",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-153.570287791974, -14.6155500720977]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "North Korea",
+				"MCC": "467",
+				"Cells": "17",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [94.8330350111111, 54.3272145481481]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Norway",
+				"MCC": "242",
+				"Cells": "180297",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [10.2770405248381, 61.5389151987136]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Oman",
+				"MCC": "422",
+				"Cells": "31314",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [57.7697914636353, 23.1037272623422]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Pakistan",
+				"MCC": "410",
+				"Cells": "146603",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [71.3160258258037, 30.4411728829531]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Palau",
+				"MCC": "552",
+				"Cells": "50",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [134.480761122193, 7.36303912490284]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Panama",
+				"MCC": "714",
+				"Cells": "127125",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.3267059651124, 8.90112260255272]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Papua New Guinea",
+				"MCC": "537",
+				"Cells": "2408",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [145.818361997553, -6.58007295740068]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Paraguay",
+				"MCC": "744",
+				"Cells": "82965",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-57.150231477863, -25.0388274972948]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Peru",
+				"MCC": "716",
+				"Cells": "259625",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.8080320843325, -11.2952514283741]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Philippines",
+				"MCC": "515",
+				"Cells": "318837",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [123.574680459645, 10.1736619164222]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Poland",
+				"MCC": "260",
+				"Cells": "1415840",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [18.9742150557696, 51.4618363629818]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Portugal",
+				"MCC": "268",
+				"Cells": "176734",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-9.05860963298596, 39.0930028048472]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Puerto Rico",
+				"MCC": "330",
+				"Cells": "23720",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.0383955459762, 18.3804686129376]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Qatar",
+				"MCC": "427",
+				"Cells": "49781",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [51.4914961392801, 25.2228405343412]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Reunion",
+				"MCC": "647",
+				"Cells": "16850",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [48.3379340644323, -15.2057158802422]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Romania",
+				"MCC": "226",
+				"Cells": "259097",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [24.0664254905324, 46.0501653051152]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Russia",
+				"MCC": "250",
+				"Cells": "2542436",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [46.8675754071111, 55.2077969954399]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Rwanda",
+				"MCC": "635",
+				"Cells": "9906",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [29.9514927738423, -1.9476113867521]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Saint Kitts and Nevis",
+				"MCC": "356",
+				"Cells": "340",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.5585468910734, 17.527557401215]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Saint Lucia",
+				"MCC": "358",
+				"Cells": "453",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.7360394663611, 13.9752750746677]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Saint Pierre and Miquelon",
+				"MCC": "308",
+				"Cells": "18",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-54.6435349255507, 46.8780858084802]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Saint Vincent and the Grenadines",
+				"MCC": "360",
+				"Cells": "242",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-57.4060370306097, 13.9586605833181]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Samoa",
+				"MCC": "549",
+				"Cells": "5170",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-171.878206828102, -13.8162063601907]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "San Marino",
+				"MCC": "292",
+				"Cells": "70",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.9733923338364, 45.66429728081]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Sao Tome and Principe",
+				"MCC": "626",
+				"Cells": "153",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [6.71012970028046, 0.308322649631065]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Saudi Arabia",
+				"MCC": "420",
+				"Cells": "395819",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [44.7300539938912, 24.2899232445514]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Senegal",
+				"MCC": "608",
+				"Cells": "56863",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-17.0535183614884, 14.6720397682863]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Serbia",
+				"MCC": "220",
+				"Cells": "81090",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [20.4191269683167, 44.6072303648462]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Seychelles",
+				"MCC": "633",
+				"Cells": "952",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [55.4730484305842, -4.67010897729122]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Sierra Leone",
+				"MCC": "619",
+				"Cells": "1948",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-12.4862049297445, 8.09740103277465]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Singapore",
+				"MCC": "525",
+				"Cells": "131188",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [103.840151947638, 1.34067107874461]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Slovakia",
+				"MCC": "231",
+				"Cells": "84975",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [18.4761255849193, 48.5073125358681]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Slovenia",
+				"MCC": "293",
+				"Cells": "52677",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [14.5311503048915, 46.1529203521316]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Solomon Islands",
+				"MCC": "540",
+				"Cells": "112",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [159.835220514572, -9.26479954357848]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Somalia",
+				"MCC": "637",
+				"Cells": "6148",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [45.8975001275328, 5.46303519577072]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "South Africa",
+				"MCC": "655",
+				"Cells": "614253",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [28.4189571205452, -27.9897442756468]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "South Korea",
+				"MCC": "450",
+				"Cells": "872882",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [127.542912728897, 36.5562649423751]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "South Sudan",
+				"MCC": "659",
+				"Cells": "2522",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [31.2471998513944, 5.19541196979905]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Spain",
+				"MCC": "214",
+				"Cells": "1047295",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-2.9109150996688, 38.840603169994]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Sri Lanka",
+				"MCC": "413",
+				"Cells": "50921",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [80.0071784861691, 6.99599560370325]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Sudan",
+				"MCC": "634",
+				"Cells": "15640",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [32.4862442823468, 15.6705640017621]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Suriname",
+				"MCC": "746",
+				"Cells": "11545",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-55.3374611397123, 5.77161091300722]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Swaziland",
+				"MCC": "653",
+				"Cells": "2588",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [31.4383710518274, -26.7819416898479]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Sweden",
+				"MCC": "240",
+				"Cells": "493273",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [16.0080325896899, 58.9266065373328]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Switzerland",
+				"MCC": "228",
+				"Cells": "293159",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [7.14347409431943, 46.7280619119049]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Syria",
+				"MCC": "417",
+				"Cells": "15783",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.6620161554025, 34.3804099414896]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Taiwan",
+				"MCC": "466",
+				"Cells": "479504",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.056820425478, 24.3791016231614]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Tajikistan",
+				"MCC": "436",
+				"Cells": "13352",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [69.4135496486685, 38.7787247864989]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Tanzania",
+				"MCC": "640",
+				"Cells": "155392",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [36.3469484271778, -5.74200911312144]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Thailand",
+				"MCC": "520",
+				"Cells": "1345065",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [100.814616176278, 13.8107507188443]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Togo",
+				"MCC": "615",
+				"Cells": "10169",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [1.31754667942405, 6.55586685588571]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Tonga",
+				"MCC": "539",
+				"Cells": "255",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-175.049939265692, -21.1120136901648]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Trinidad and Tobago",
+				"MCC": "374",
+				"Cells": "31707",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-61.4222928392075, 10.4523046528996]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Tunisia",
+				"MCC": "605",
+				"Cells": "72660",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [10.2504609739341, 36.1614964808386]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Turkey",
+				"MCC": "286",
+				"Cells": "735944",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [32.177792700696, 39.842848087661]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Turkmenistan",
+				"MCC": "438",
+				"Cells": "5959",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [58.4107512700386, 38.4205307372318]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Turks and Caicos Islands",
+				"MCC": "376",
+				"Cells": "245",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.1881027877552, 21.784338368861]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Tuvalu",
+				"MCC": "553",
+				"Cells": "1",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [179.194565, -8.524017]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Uganda",
+				"MCC": "641",
+				"Cells": "62996",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [31.937714982417, 0.7808841102926]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Ukraine",
+				"MCC": "255",
+				"Cells": "354603",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [30.3776072357116, 49.2505513039987]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United Arab Emirates",
+				"MCC": "424",
+				"Cells": "209304",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [55.3376824936109, 25.0035217777915]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United Arab Emirates",
+				"MCC": "430",
+				"Cells": "30",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [97.463988064, 52.08380873]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United Arab Emirates",
+				"MCC": "431",
+				"Cells": "21",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [103.378530654545, 55.1498852333333]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United Kingdom",
+				"MCC": "234",
+				"Cells": "1800141",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-1.4238220276713, 52.4250213735823]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United Kingdom",
+				"MCC": "235",
+				"Cells": "27",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [37.6341319412218, 54.3485468482639]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United States of America",
+				"MCC": "310",
+				"Cells": "5918089",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-91.14779854748, 34.7263988448637]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United States of America",
+				"MCC": "311",
+				"Cells": "1604202",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.6914303555556, 39.1520923546243]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United States of America",
+				"MCC": "312",
+				"Cells": "198500",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-93.0098641095503, 37.7077393286083]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "United States of America",
+				"MCC": "316",
+				"Cells": "457",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-100.037979060735, 39.0498313447556]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Uruguay",
+				"MCC": "748",
+				"Cells": "38635",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-56.2344215369685, -34.2117322471281]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Uzbekistan",
+				"MCC": "434",
+				"Cells": "28062",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [68.8117041967097, 41.1057788540068]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Vanuatu",
+				"MCC": "541",
+				"Cells": "559",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [168.258640100422, -17.6517514628931]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Venezuela",
+				"MCC": "734",
+				"Cells": "98770",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-64.6608290999386, 9.3962799430642]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Vietnam",
+				"MCC": "452",
+				"Cells": "296218",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [106.628273165688, 13.0983914363908]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Wallis and Futuna",
+				"MCC": "543",
+				"Cells": "2",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [102.9379858, 56.44779]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Yemen",
+				"MCC": "421",
+				"Cells": "5275",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [40.8880935376205, 15.4781253056376]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Zambia",
+				"MCC": "645",
+				"Cells": "41983",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [28.4513142559223, -14.6612358944607]
+			}
+		}
+		,
+		{
+			"type": "Feature",
+			"properties": {
+				"Country": "Zimbabwe",
+				"MCC": "648",
+				"Cells": "45856",
+				"marker-symbol": "circle",
+				"marker-size": "small"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [30.717401469098, -18.4502474686999]
+			}
+		}
+	]
+}
